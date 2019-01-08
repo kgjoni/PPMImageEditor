@@ -1,0 +1,6 @@
+C:\Users\Kris\Desktop\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.XML
+C:\Users\Kris\Desktop\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.dll
+C:\Users\Kris\Desktop\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.pdb
+C:\Users\Kris\Desktop\PPMImageEditor\PPMImageLibrary\obj\Debug\PPMImageLibrary.dll
+C:\Users\Kris\Desktop\PPMImageEditor\PPMImageLibrary\obj\Debug\PPMImageLibrary.pdb
+C:\Users\Kris\Desktop\PPMImageEditor\PPMImageLibrary\bin\Debug\FSharp.Core.dll
